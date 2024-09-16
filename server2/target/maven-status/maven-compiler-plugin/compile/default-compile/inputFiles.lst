@@ -1,0 +1,12 @@
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/dto/ResponseDto.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/AuthorizationServerApplication.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/controllers/ViewsController.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/controllers/ErrorController.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/dto/ErrorResponseDto.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/controllers/ChangePasswordController.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/exception/GlobalExceptionHandler.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/config/UserManagementConfig.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/exception/RessourceNotFoundException.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/config/AuthorizationServerConf.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/config/CustomAuthenticationEntryPoint.java
+/home/raphael/workspace/oauth2/authorization-server/src/main/java/com/rc4/authorizationserver/exception/CustomerAlreadyExistsException.java
